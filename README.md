@@ -15,6 +15,9 @@ Perfect for developers, researchers, and prompt engineers who want to stay cost-
 ## 🚀 Features
 
 - Estimate token usage (simple word-based calculation)
+- ---
+
+Wanna me also give you a short Python update (`cost_estimator.py`) version that includes **Gemini + Mistral** prices to match this README?
 - Auto-calculate total cost for each model
 - Warns if your prompt might get expensive
 - 100% offline — no API key needed
